@@ -1,5 +1,5 @@
 ,PODt,PODa,Chemical Class,chemicals
-16#-1,-0.268663892,-1,Neurotoxicants,PPC
+16#-1,-0.526238034,-1.494850022,Neurotoxicants,PPC
 17#-1,-0.930433968,-1,Neurotoxicants,TPP
 21#-1,0.594210809,1,Neurotoxicants,DIR
 25#-1,0.111425752,0.301029996,Neurotoxicants,CPS
@@ -9,7 +9,7 @@
 38#-1,-0.180957524,0.505149978,Non-neurotoxicants,PFOA
 4#-1,0.573339412,0,Neurotoxicants,DZN
 40#-1,-0.395720893,-0.13667714,Neurotoxicants,BbF
-41#-1,-0.526238034,-1.494850022,Neurotoxicants,TDCPP
+41#-1,-0.268663892,-1,Neurotoxicants,TDCPP
 47#-1,1.14154797,1,Neurotoxicants,TCS
 60#-1,-0.795555843,0.397940009,Non-neurotoxicants,MFA
 7#-1,-1.463671503,0,Neurotoxicants,DFC

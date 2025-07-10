@@ -94,7 +94,7 @@ data.nano <- read.csv('nano_PoD.csv')[,-1]
 data.nano[,3] <- cheminfo[match(data.nano[,4],cheminfo[,4]),5]
 data.nano <- cbind(data.nano,cheminfo[,6])
 data.nano[,3] <- factor(data.nano[,3], levels = c("Unknown","Yes", "No"))
-data.nano <- data.nano[-1,]
+data.nano <- data.nano[-11,]
 colnames(data.nano)[3] <- 'Neurotoxic'
 colnames(data.nano)[5] <- 'Chemical Class'
 Neuro <- 'Neurotoxic'
