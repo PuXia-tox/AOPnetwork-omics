@@ -1,0 +1,23 @@
+"","#","AOP Title","...3","...4","...5","...6"
+"1","  1","Acetylcholinesterase inhibition leading to acute mortality","Increased Mortality","Decrease, Population growth rate",NA,NA
+"2","  2","Ionotropic GABA receptor activation-mediated neurotransmission inhibition leading to mortality","Increased Mortality",NA,NA,NA
+"3","  3","Glutamate-gated chloride channel activation leading to neurotransmission inhibition and mortality","Increased Mortality",NA,NA,NA
+"4","  8","Chronic NMDA receptor antagonist binding during development leads to neurodegeneration and memory impairment","N/A, Neurodegeneration","Impairment, Learning and memory",NA,NA
+"5","  9","Chronic NMDA receptor antagonist binding during development induces memory impairment","Impairment, Learning and memory",NA,NA,NA
+"6"," 10","Binding to picrotoxin site on GABA receptors causing seizures","Occurrence, Epileptic seizure",NA,NA,NA
+"7"," 11","Agonist binding to ionotropic glutamate receptors causing excitotoxic neuronal death","Impairment, Learning and memory",NA,NA,NA
+"8"," 18","Mitochondrial complex I inhibition in nigro-striatal neurons leading to parkinsonian motor deficits","Parkinsonian motor deficits",NA,NA,NA
+"9"," 19","Increased LCN2/iron complex leading to neurological disorders","Neurological disorder",NA,NA,NA
+"10"," 20","Thyroperoxidase inhibition leading to neurodevelopmental outcomes","Increased Mortality","Decrease, Population growth rate",NA,NA
+"11"," 21","Hepatic nuclear receptor activation increasing thyroid hormone catabolism → adverse neurodevelopment","Loss, Cochlear function",NA,NA,NA
+"12"," 22","Sodium iodide symporter inhibition → adverse neurodevelopment","Cognitive function, decreased",NA,NA,NA
+"13"," 23","Thyroid peroxidase inhibition causing heterotopia formation in rat brain","Periventricular heterotopia formation","Increase, seizure",NA,NA
+"14"," 24","Calcium-mediated neuronal ROS production and energy imbalance","Oxidative Stress",NA,NA,NA
+"15"," 26","5-HTT inhibition leading to population decline (serotonergic implications)","Increase, predation","Decrease, Population growth rate",NA,NA
+"16"," 64","Aromatase (Cyp19a1) reduction leading to impaired female fertility (estrogen-sensitive neurodevelopmental marker)","decreased, Fertility","disrupted, ovarian cycle",NA,NA
+"17"," 65","Aromatase inhibition leading to reproductive dysfunction","Decreased fertility","Reduced number of oocytes ovulated",NA,NA
+"18","102","Histamine (H2) receptor antagonism leading to reduced survival","Decreased, survival","Increased, predation",NA,NA
+"19","109","Altered ion channel activity impairing heart function (neuro-cardiac link)","Increased Mortality",NA,NA,NA
+"20","122","Thyroid peroxidase inhibition causing heterotopia formation (duplicate entry)","Periventricular heterotopia formation","Increase, seizure",NA,NA
+"21","130","Kidney dysfunction by decreased thyroid hormone (thyroid–brain axis link)","Occurrence, Kidney toxicity",NA,NA,NA
+"22","136","Mitochondrial complex I inhibition in nigro-striatal neurons leading to motor deficits (repeat entry)","impaired, Larval development","Increase, Malformations","Increased Mortality","Decrease, Population growth rate"

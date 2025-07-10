@@ -1,0 +1,490 @@
+AOP KE,a,b,GO,note,c,d
+"Aberrant, Dendritic morphology",Dendritic morphology,Aberrant,GO:0048813,,Cellular,dendrite morphogenesis
+"Abnormal, Foraging activity and behavior",Foraging activity and behavior,Abnormal,GO:0060756,,Individual,foraging behavior
+"Accelerated, Aging",Aging,Accelerated,GO:0007568,,Individual,aging
+"Accumulation, Collagen",Collagen,Accumulation,GO:0032964,,Tissue,collagen biosynthetic process
+"Accumulation, Damaged mitochondrial DNA",Damaged mitochondrial DNA,Accumulation,GO:0009611,,Cellular,response to wounding
+AchE Inhibition,Acetylcholinesterase (AchE),Inhibition,GO:0003990,,Cellular,acetylcholinesterase activity
+"Activation of specific nuclear receptors, PPAR-gamma activation",PPAR-gamma activation,Activation of specific nuclear receptors,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Activation of specific nuclear receptors, Transcriptional change",Transcriptional change,Activation of specific nuclear receptors,GO:0010467,,Cellular,gene expression
+Activation of TGF-¦Â signaling,Activation of TGF-?? signaling,,GO:0023052,,Molecular,signaling
+"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene",3-hydroxy-3-methylglutaryl-CoA reductase gene,Activation,GO:0003857,,Cellular,3-hydroxyacyl-CoA dehydrogenase activity
+"Activation, 5HT2c",5HT2c,Activation,GO:0023052,,Molecular,signaling
+"Activation, AhR",AHR,Activation,GO:0004874,,Molecular,aryl hydrocarbon receptor activity
+"Activation, AKT2",AKT2,Activation,GO:0023052,,Molecular,signaling
+"Activation, Androgen receptor",Androgen receptor,Activation,GO:0004882,,Molecular,androgen receptor activity
+"Activation, beta-2 adrenergic receptor",beta-2 adrenergic receptor,Activation,GO:0031698,,Molecular,beta-2 adrenergic receptor binding
+"Activation, ChREBP",ChREBP,Activation,GO:0023052,,Molecular,signaling
+"Activation, Constitutive androstane receptor",Constitutive androstane receptor,Activation,GO:0023052,,Molecular,signaling
+"Activation, Dendritic Cells",Dendritic Cells,Activation,GO:0001775,,Cellular,cell activation
+"Activation, Dendritic Cells",Dendritic Cells,Activation,GO:0002396,,Cellular,MHC protein complex assembly
+"Activation, EGFR",EGFR,Activation,GO:0005006,,Molecular,epidermal growth factor-activated receptor activity
+"Activation, EGFR",EGFR,Activation,GO:0018171,,,peptidyl-cysteine oxidation
+"Activation, Estrogen receptor",Estrogen receptor,Activation,GO:0023052,,Molecular,signaling
+"Activation, estrogen receptor alpha",estrogen receptor alpha,Activation,GO:0030520,,Molecular,intracellular estrogen receptor signaling pathway
+"Activation, FAS",FAS,Activation,GO:0004312,,Molecular,fatty acid synthase activity
+"Activation, FOXO",FOXO,Activation,GO:0023052,,Cellular,signaling
+"Activation, Glucocorticoid Receptor",Glucocorticoid Receptor,Activation,GO:0004883,,Molecular,glucocorticoid receptor activity
+"Activation, Glucocorticoid Receptor",Increased Glucocorticoid,Stimulation of adult Leydig cells via the Adrenal Corticosterone,GO:0001775,,Molecular,cell activation
+"Activation, Glucocorticoid Receptor",Increased Glucocorticoid,Stimulation of adult Leydig cells via the Adrenal Corticosterone,GO:0006704,,Molecular,glucocorticoid biosynthetic process
+"Activation, Glutamate-gated chloride channel",Glutamate-gated chloride channel,Activation,GO:0005254,,Molecular,chloride channel activity
+"Activation, Hepatic nuclear receptor(s)",Hepatic nuclear receptor(s),Activation,GO:0023052,,Molecular,signaling
+"Activation, HIF-1",HIF-1,"Activation,",GO:0023052,,Cellular,signaling
+"Activation, Inflammatory cytokines, chemokines, cytoprotective gene pathways	","Inflammatory cytokines, chemokines, cytoprotective gene pathways",Activation,GO:0005125,,Molecular,cytokine activity
+"Activation, Inflammatory cytokines, chemokines, cytoprotective gene pathways	","Inflammatory cytokines, chemokines, cytoprotective gene pathways",Activation,GO:0008009,,Molecular,chemokine activity
+"Activation, ionotropic GABA Receptor chloride channel",ionotropic GABA Receptor chloride channel,Activation,GO:0022851,,Molecular,GABA-gated chloride ion channel activity
+"Activation, JAK/STAT pathway",JAK/STAT pathway,Activation,GO:0023052,,Cellular,signaling
+"Activation, JNK",JNK,Activation,GO:0023052,,Cellular,signaling
+"Activation, Juvenile hormone receptor",Juvenile hormone receptor,Activation,GO:0023052,,Molecular,signaling
+"Activation, Keratinocytes",Keratinocytes,Activation,GO:0002534,,Cellular,cytokine production involved in inflammatory response
+"Activation, Keratinocytes",Keratinocytes,Activation,GO:0032980,,Cellular,keratinocyte activation
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes",Long term AHR receptor driven direct and indirect gene expression changes,Activation,GO:0023052,,Cellular,signaling
+"Activation, LXR",LXR,Activation,GO:0023052,,Molecular,signaling
+"Activation, LXR alpha",LXR alpha,Activation,GO:0023052,,Molecular,signaling
+"Activation, NADPH Oxidase",NADPH Oxidase,"Activation,",GO:0023052,,Molecular,signaling
+"Activation, Nicotinic acetylcholine receptor","Desensitization, Nicotinic acetylcholine receptor","Desensitization, Nicotinic acetylcholine receptor",GO:0030549,,Molecular,acetylcholine receptor activator activity
+"Activation, Nicotinic acetylcholine receptor",Nicotinic acetylcholine receptor,Activation,GO:0015464,,Molecular,acetylcholine receptor activity
+"Activation, NR1H4",NR1H4,Activation,GO:0023052,,Molecular,signaling
+"Activation, NRF2",NRF2,Activation,GO:0023052,,Molecular,signaling
+"Activation, PXR/SXR",PXR/SXR,Activation,GO:0004872,,Molecular,receptor activity
+"Activation, SCD-1",SCD-1,Activation,GO:0010467,,Molecular,gene expression
+"Activation, SHP",SHP,Activation,GO:0023052,,Molecular,signaling
+"Activation, Sp1",SP1,Activation,GO:0016310,,Molecular,phosphorylation
+"Activation, SREBF1",SREBF1,Activation,GO:0023052,,Molecular,signaling
+"Activation, SREBP-1c",SREBP-1c,Activation,GO:0032933,,Molecular,SREBP signaling pathway
+"Activation, Stellate cells",Stellate cells,Activation,GO:0035733,,Cellular,hepatic stellate cell activation
+"Activation, TGF-beta pathway",TGF-beta pathway,Activation,GO:0023052,,Cellular,signaling
+"Activation/Proliferation, T-cells",T-cells,Activation/Proliferation,GO:0008283,,Organ,cell proliferation
+"Activation/Proliferation, T-cells",T-cells,Activation/Proliferation,GO:0042110,,Organ,T cell activation
+"Agonism, Androgen receptor",Androgen receptor,Agonism,GO:0004882,,Molecular,androgen receptor activity
+"Agonism, Estrogen receptor",Estrogen receptor,Agonism,GO:0030284,,Molecular,estrogen receptor activity
+"Alkylation, DNA",DNA,Alkylation,GO:0006305,,Molecular,DNA alkylation
+"Alkylation, Protein",Protein,Alkylation,GO:0008213,,Molecular,protein alkylation
+"Alteration, lipid metabolism",lipid metabolism,Alteration,GO:0006629,,Cellular,lipid metabolic process
+"Alteration, Wnt pathway",Wnt pathway,Alteration,GO:0016055,,Cellular,Wnt signaling pathway
+"Alterations, Cellular proliferation / hyperplasia",Cellular proliferation / hyperplasia,Alterations,GO:0008283,,Tissue,cell proliferation
+Altered expression of hepatic CAR-dependent genes,"Altered gene expression specific to CAR activation, Hepatocytes","Altered gene expression specific to CAR activation, Hepatocytes",GO:0010468,,Cellular,regulation of gene expression
+"Altered regulation, Alpha hemoglobin",Alpha hemoglobin,Altered regulation,GO:0010467,,Cellular,gene expression
+"Altered, Action Potential",Action Potential,Inhibition,GO:0001508,,Cellular,action potential
+"Altered, Amphibian metamorphosis",Amphibian metamorphosis,Altered,GO:0007552,,Organ,metamorphosis
+"Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction",GO:0005516,,Cellular,calmodulin binding
+"Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction",GO:0005516,,Cellular,calmodulin binding
+"Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction",GO:0023052,,Cellular,signaling
+"Altered, Cardiovascular development/function","Altered, Cardiovascular development/function","Altered, Cardiovascular development/function",GO:0032502,,Organ,developmental process
+"Altered, Cardiovascular development/function",Cardiovascular development/function,Altered,GO:0072358,,Organ,cardiovascular system development
+"Altered, Gene Expression",Gene Expression,Altered,GO:0010467,,Molecular,gene expression
+"Altered, Larval development",Larval development,Altered,GO:0002164,,Individual,larval development
+"Altered, Meiotic chromosome dynamics",Meiotic chromosome dynamics,Altered,GO:0051305,,Cellular,chromosome movement towards spindle pole
+"Altered, Neuroanatomy",Neuroanatomy,Altered,GO:0048856,,Organ,anatomical structure development
+"Altered, Protein Production",Protein Production,Altered,GO:0006412,,Cellular,translation
+"Altered, Reproductive behaviour",Reproductive behaviour,Altered,GO:0019098,,Individual,reproductive behavior
+"Antagonism, Estrogen receptor",Estrogen receptor,Antagonism,GO:0030284,,Molecular,estrogen receptor activity
+"Antagonism, Histamine Receptor (H2)",Histamine Receptor (H2),Antagonism,GO:0004969,,Molecular,histamine receptor activity
+"Anticoagulant rodenticide interferes with gamma-carboxyglutamate formation, Inhibition of p",Impairment of post-translational modification (carboxylation) of osteocalcin,Anticoagulant rodenticide interferes with carboxylation of Gla proteins in bone,GO:0043687,,Molecular,post-translational protein modification
+Apoptosis,Apoptosis,,GO:0006915,,Tissue,apoptotic process
+"BDNF, Reduced",Release of BDNF,Reduced,GO:0010467,,Molecular,gene expression
+"BDNF, Reduced",Release of BDNF,Reduced,GO:0046903,,Molecular,secretion
+"Binding at picrotoxin site, iGABAR chloride channel",iGABAR chloride channel,Binding at picrotoxin site,GO:0050811,,Molecular,GABA receptor binding
+"Binding of agonist, Ionotropic glutamate receptors",Ionotropic glutamate receptors,Binding of agonist,GO:0004970,,Molecular,ionotropic glutamate receptor activity
+"Binding of antagonist, NMDA receptors",NMDA receptors,Binding of antagonist,GO:0004972,,Molecular,NMDA glutamate receptor activity
+"Binding of antagonist, PPAR alpha",PPAR alpha,Binding of antagonist,GO:0048019,,Molecular,receptor antagonist activity
+"Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)",NADH-ubiquinone oxidoreductase (complex I),Binding of inhibitor,GO:0006120,,Molecular,"mitochondrial electron transport, NADH to ubiquinone"
+"Binding, Immunophilins",Binding,Immunophilins,GO:0005488,,Molecular,binding
+"Binding, SH-/selen-proteins",SH-/selen-proteins,Binding,GO:0005515,,Molecular,protein binding
+"Binding, Tubulin",Tubulin,Binding,GO:0015631,,Molecular,tubulin binding
+"Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tis","Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal",Blood loss and development of anemia,GO:0006810,,Cellular,transport
+"Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tis","Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal",Blood loss and development of anemia,GO:1990748,,Cellular,cellular detoxification
+"Changes/Inhibition, Cellular Homeostasis and Apoptosis",Cellular Homeostasis and Apoptosis,Changes/Inhibition,GO:0006915,,Cellular,apoptotic process
+"Changes/Inhibition, Cellular Homeostasis and Apoptosis",Cellular Homeostasis and Apoptosis,Changes/Inhibition,GO:0019725,,Cellular,cellular homeostasis
+"Chronic, Mucus hypersecretion","Chronic, Mucus hypersecretion","Chronic, Mucus hypersecretion",GO:0070254,,Tissue,mucus secretion
+"Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)",to form Altered Hepatic Foci (AHF),Clonal Expansion/Cell Proliferation,GO:0072574,,Organ,hepatocyte proliferation
+"Cognitive Function, Decreased",Cognitive Function,Decreased,GO:0007611,,Individual,learning or memory
+"Cognitive Function, Decreased",Cognitive Function,Decreased,GO:0050890,,Individual,cognition
+"Covalent Binding, Protein",Protein,Covalent Binding,GO:0005515,,Molecular,protein binding
+"Damaging, Mitochondria",Mitochondria,Damaging,GO:0061726,,Cellular,mitochondrion disassembly
+Decompartmentalization,Decompartmentalization,,GO:0016043,,Molecular,cellular component organization
+"Decrease, Abdominal muscle contraction",Abdominal muscle contraction,Reduction,GO:0006936,,Organ,muscle contraction
+"Decrease, AKT/eNOS activity",Akt/eNOS activity,Decrease,GO:0003824,,Cellular,catalytic activity
+"Decrease, Apoptosis of ciliated epithelial cells",Apoptosis of ciliated epithelial cells,Decrease,GO:1904019,,Cellular,epithelial cell apoptotic process
+"Decrease, ATP production",ATP production,Decreased,GO:0006754,,Cellular,ATP biosynthetic process
+"Decrease, Bioactivation of testosterone",Bioactivation of testosterone,Decrease,GO:0061370,,Tissue,testosterone biosynthetic process
+"Decrease, Ecdysis motoneuron bursts",Ecdysis motoneuron bursts,Reduction,GO:0019226,,Tissue,transmission of nerve impulse
+"Decrease, Excitatory postsynaptic potential",Excitatory postsynaptic potential,Reduction,GO:0060079,,Tissue,excitatory postsynaptic potential
+"Decrease, GTPCH-1",GTPCH-1,Decrease,GO:1903009,,Cellular,proteasome complex disassembly
+"Decrease, histaminergic neuron excitation",histaminergic neuron excitation,Decrease,GO:0043179,,Cellular,rhythmic excitation
+"Decrease, Incorporation of active iodide into iodotyrosines",Incorporation of active iodide into iodotyrosines,Decrease,GO:0003824,,Cellular,catalytic activity
+"Decrease, Intracellular pH	",Intracellular pH,Decrease,GO:0051453,,Cellular,regulation of intracellular pH
+"Decrease, Mitochondrial ATP production",Reduced ability to generate ATP,Uncoupling of oxidative phosphorylation,GO:0006754,,Molecular,ATP biosynthetic process
+"Decrease, Ovulation",Ovulation,Decrease,GO:0030728,,Tissue,ovulation
+"Decrease, Steroidogenic acute regulatory protein (STAR)",Steroidogenic acute regulatory protein (STAR),Decrease,GO:0010467,,Cellular,gene expression
+"Decrease, Tetrahydrobiopterin",Tetrahydrobiopterin,Decrease,GO:0009058,,Cellular,biosynthetic process
+"Decrease, Translocator protein (TSPO)",Translocator protein (TSPO),Decrease,GO:0010467,,Cellular,gene expression
+"Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity",3-hydroxyacyl-CoA dehydrogenase type-2 activity,Decreased,GO:0003857,,Cellular,3-hydroxyacyl-CoA dehydrogenase activity
+"Decreased, Androgen receptor activity",Androgen receptor activity,Decreased,GO:0004882,,Molecular,androgen receptor activity
+"Decreased, Apoptosis (Epithelial Cells)",Apoptosis (Epithelial Cells),Decreased,GO:0006915,,Cellular,apoptotic process
+"Decreased, Aromatase (Cyp19a1) mRNA",Aromatase (Cyp19a1) mRNA,Decreased,GO:0070330,,Cellular,aromatase activity
+"Decreased, Calcium influx",Calcium influx,Decreased,GO:0006816,,Cellular,calcium ion transport
+"Decreased, DHB4/HSD17B4",DHB4/HSD17B4,Decreased,GO:0003824,,Molecular,catalytic activity
+"Decreased, Dopaminergic activity",Dopaminergic activity,Decreased,GO:0001963,,Cellular,"synaptic transmission, dopaminergic"
+"Decreased, GABA release",GABA release,Decreased,GO:0006810,,Cellular,transport
+"Decreased, Glomerular filtration",Glomerular filtration,Decreased,GO:0003094,,Tissue,glomerular filtration
+"Decreased, Glucose oxidase enzyme activity",Glucose oxidase enzyme activity,Decreased,GO:0046562,,Molecular,glucose oxidase activity
+"Decreased, GnRH pulsatility/release in hypothalamus",GnRH pulsatility/release,Decreased,GO:0046879,,Cellular,hormone secretion
+"Decreased, HSD17B10 expression",HSD17B10 expression,Decreased,GO:0010467,,Cellular,gene expression
+"Decreased, Hydrogen peroxide production",Hydrogen peroxide production,Decreased,GO:0050665,,Molecular,hydrogen peroxide biosynthetic process
+"Decreased, LH Surge from anterior pituitary",LH Surge from anterior pituitary,Decreased,GO:0046879,,Cellular,hormone secretion
+"Decreased, locomotion",locomotion,Decreased,GO:0040011,,Individual,locomotion
+"Decreased, Long-term potentiation (LTP)",Long-term potentiation (LTP),Decreased,GO:0060291,,Organ,long-term synaptic potentiation
+"Decreased, Mitochondrial Fatty Acid Beta Oxidation",Mitochondrial Fatty Acid Beta Oxidation,Decreased,GO:0006635,,Molecular,fatty acid beta-oxidation
+"Decreased, Neuronal network function in adult brain",Neuronal network function in adult brain,Decreased,GO:0099536,,Organ,synaptic signaling
+"Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)",PCK1 expression (control point for glycolysis/gluconeogenesis pathway),Decreased,GO:0010467,,Cellular,gene expression
+"Decreased, Peroxisomal Fatty Acid Beta Oxidation of Fatty Acids",Peroxisomal Fatty Acid Beta Oxidation of Fatty Acids,Decreased,GO:0006635,,Molecular,fatty acid beta-oxidation
+"Decreased, PPAR-alpha activation",PPAR-alpha activation,Decreased,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Decreased, PPARalpha transactivation of gene expression",PPARalpha transactivation of gene expression,Decreased,GO:0035624,,Molecular,receptor transactivation
+"Decreased, PPAR-beta activation",PPAR-beta activation,Decreased,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Decreased, PPAR-gamma activation",PPAR-gamma activation,Decreased,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Decreased, Progesterone from corpus luteum",Progesterone from corpus luteum,Decreased,GO:0042701,,Tissue,progesterone secretion
+"Decreased, Prostaglandin F2alpha synthesis, ovary","Prostaglandin F2alpha synthesis, ovary",Decreased,GO:0001516,,Organ,prostaglandin biosynthetic process
+"Decreased, Reproductive Success",Reproductive Success,Decreased,GO:0000003,,Individual,reproductive process
+"Decreased, Reproductive Success",Reproductive Success,Decreased,GO:0022414,,Individual,reproductive process
+"Decreased, Sodium conductance 1",sodium conductance,Decreased,GO:0006810,,Cellular,transport
+"Decreased, Sodium conductance 2",sodium conductance,Decreased,GO:0006810,,Cellular,transport
+"Decreased, Sodium reabsorption",Sodium reabsorption,Decreased,GO:0070293,,Organ,renal absorption
+"Decreased, Testosterone binding to androgen receptor (hypothalamus)",Testosterone binding to androgen receptor (hypothalamus),Decreased,GO:0005102,,Molecular,receptor binding
+"Decreased, Transcription of genes by AR",Transcription of genes by AR,Decreased,GO:0010468,,Cellular,regulation of gene expression
+"Decreased, Uptake of inorganic iodide",Uptake of inorganic iodide,Decreased,GO:0015705,,Cellular,iodide transport
+Defect of Embryogenesis,Defect of Embryogenesis,,GO:0009790,,Tissue,embryo development
+"Depletion, energy reserves","Depletion, energy reserves","Depletion, energy reserves",GO:0001820,,Individual,serotonin secretion
+"Depletion, Nitric Oxide",Nitric Oxide,Depletion,GO:0006809,,Cellular,nitric oxide biosynthetic process
+"Desensitization, Nicotinic acetylcholine receptor",Nicotinic acetylcholine receptor,Desensitization,GO:0030545,,Molecular,receptor regulator activity
+"Desensitization, Nicotinic acetylcholine receptor",Nicotinic acetylcholine receptor,Desensitization,GO:0030549,,Molecular,acetylcholine receptor activator activity
+Differentiation of Myofibroblast,Differentiation of Myofibroblast,,GO:0030154,,Cellular,cell differentiation
+"dimerization, AHR/ARNT",AHR/ARNT,dimerization,GO:0046983,,Molecular,protein dimerization activity
+"dimerization, AHR/ARNT","dimerization, AHR/ARNT","dimerization, AHR/ARNT",GO:0046983,,Molecular,protein dimerization activity
+"Disorganization, Spindle",Spindle,Disorganization,GO:0007051,,Cellular,spindle organization
+"Disruption, Lysosome",Lysosome,Disruption,GO:1903008,,Cellular,organelle disassembly
+"Disruption, Microtubule dynamics",Microtubule,Depolymerization,GO:0007019,,Molecular,microtubule depolymerisation
+"Down Regulation, CPT1A",CPT1A,Down Regulation,GO:0010467,,Molecular,gene expression
+"Down Regulation, GSS and GSTs gene",GSS and GSTs gene,Down Regulation,GO:0004363,,Cellular,glutathione synthase activity
+"Down Regulation, Gulcose-6-phosphate dehydrogenase",Gulcose-6-phosphate dehydrogenase,Down Regulation,GO:0010467,,Cellular,gene expression
+"Down Regulation, HMGCS2",HMGCS2,Down Regulation,GO:0010467,,Molecular,gene expression
+Expression of Collagen,Expression of Collagen,,GO:0032964,,Cellular,collagen biosynthetic process
+"Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)",Unresolved blood loss (hemorrhage),Failure in vascular repair mechanisms,GO:0042060,,Organ,wound healing
+"Feminisation or incomplete development, Primary and accessory male sex organs",Primary and accessory male sex organs,Feminisation or incomplete development,GO:0032502,,Organ,developmental process
+"Formation, Formation of hemoglobin adducts",Formation of hemoglobin adducts,Formation,GO:0030492,,Cellular,hemoglobin binding
+"Formation, Formation of hemoglobin adducts",Formation of hemoglobin adducts,Formation,GO:0042541,,Cellular,hemoglobin biosynthetic process
+"Formation, Pro-mutagenic DNA Adducts",Pro-mutagenic DNA Adducts,Formation,GO:0006305,,Molecular,DNA alkylation
+"Formation, The binding of FK506 with FKBP12",Binding of calcineurin with FK506-FKBP complexes,"Binding, Formation",GO:0005488,,Molecular,binding
+"Generation of novel epitopes , Antigen presentation",Antigen presentation,Generation of novel epitopes,GO:0019882,,Cellular,antigen processing and presentation
+"Generation, Amplified excitatory postsynaptic potential (EPSP)",Amplified excitatory postsynaptic potential (EPSP),Generation,GO:0060079,,Tissue,excitatory postsynaptic potential
+Glutathione synthesis,Glutathione synthesis,,GO:0006750,,Cellular,glutathione biosynthetic process
+"Hemostasis, Depletion from blood of fully functional carboxylated clotting factors",Depletion from blood of fully functional carboxylated clotting factors,Hemostasis,GO:0007599,,Tissue,hemostasis
+"Hippocampal gene expression, Altered",Hippocampal gene expression,Altered,GO:0010468,,Tissue,regulation of gene expression
+"hyperpolarisation, neuron",neuron,hyperpolarisation,GO:0060081,,Cellular,membrane hyperpolarization
+"Impaired development of, Reproductive organs",Reproductive organs,Impaired development of,GO:0032502,,Individual,developmental process
+"impaired, Development",Development,impaired,GO:0032502,,Individual,developmental process
+"impaired, ion channels",ion channels,impaired,GO:0005216,,Cellular,ion channel activity
+"Impaired, Vasodilation",Vasodilation,impaired,GO:0042311,,Organ,Vasodilation
+"Impairment, Endothelial network",Endothelial network,Impairment,GO:0003158,,Tissue,endothelium development
+"Impairment, Learning and memory",Learning and memory,Impairment,GO:0007612,,Individual,learning
+"Impairment, Learning and memory",Learning and memory,Impairment,GO:0007613,,Individual,memory
+Inactivation of PPAR¦Ã,Inactivation of PPAR??,,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Increase proliferation, Leydig cell",Leydig cell,Increase proliferation,GO:0008283,,Cellular,cell proliferation
+"Increase, Biliary excretion TH glucuronide",Biliary excretion TH glucuronide,Increase,GO:0007588,,Organ,excretion
+"Increase, Cell Proliferation",Cell Proliferation,Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Cell Proliferation (Epithelial Cells)",Cell Proliferation (Epithelial Cells),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, COX-2 expression","Increase, COX-2 expression","Increase, COX-2 expression",GO:0010467,,Molecular,gene expression
+"Increase, Cytotoxicity",Cytotoxicity,Increase,GO:0001909,,Cellular,leukocyte mediated cytotoxicity
+"Increase, Cytotoxicity",Cytotoxicity,Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (club cells)",Cytotoxicity (club cells),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (corneal cells)",Cytotoxicity (corneal cells),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (epithelial cells)",Cytotoxicity (epithelial cells),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (hepatocytes)",Cytotoxicity (hepatocytes),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (renal tubular cell)",Cytotoxicity (renal tubular cell),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (tubular epithelial cells)",Cytotoxicity (tubular epithelial cells),Increase,GO:0008219,,Cellular,cell death
+"Increase, Cytotoxicity (urothelial cells)",Cytotoxicity (urothelial cells),Increase,GO:0008219,,Cellular,cell death
+"Increase, Dopaminergic activity",Dopaminergic activity,Increase,GO:0001963,,Cellular,"synaptic transmission, dopaminergic"
+"Increase, FA Influx",FA Influx,Increase,GO:2000193,,Cellular,positive regulation of fatty acid transport
+"Increase, Hypertrophy and proliferation (follicular cell)",Hypertrophy and proliferation (follicular cell),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Incomplete ecdysis",Incomplete ecdysis,Increased,GO:0006031,,Organ,chitin biosynthetic process
+"Increase, Inflammation",Inflammation,Increase,GO:0006954,,Cellular,inflammatory response
+"Increase, Inflammation (corneal cells)",Inflammation (corneal cells),Increase,GO:0006954,,Cellular,inflammatory response
+"Increase, Luteinizing hormone (LH)",Luteinizing hormone (LH),Increase,GO:0042446,,Cellular,hormone biosynthetic process
+"Increase, Mitogenic cell proliferation (hepatocytes)",Mitogenic cell proliferation (hepatocytes),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Mitogenic cell proliferation (hepatocytes)",Mitogenic cell proliferation (hepatocytes),Increase,GO:0072574,,Cellular,hepatocyte proliferation
+"Increase, Mucin production",Mucin production,Increase,GO:0010467,,Cellular,gene expression
+"Increase, Mucin production",Mucin production,Increase,GO:0046903,,Cellular,secretion
+"Increase, Necrosis (terminal bronchiolar cells)",Necrosis (terminal bronchiolar cells),Increase,GO:0008219 ,,Cellular,cell death
+"Increase, Oxidative metabolism",Oxidative metabolism,Increase,GO:0045333,,Cellular,cellular respiration
+"Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK","Oxidative Stress / Activation, PMK-1 P38 MAPK",Increase,GO:0023052,,Cellular,signaling
+"Increase, Proliferation of goblet cells",Proliferation of goblet cells,Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Regenerative cell proliferation (corneal cells)",Regenerative cell proliferation (corneal cells),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Regenerative cell proliferation (forestomach epithelial cells)",Regenerative cell proliferation (forestomach epithelial cells),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Regenerative cell proliferation (hepatocytes)",Regenerative cell proliferation (hepatocytes),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)",Regenerative cell proliferation (terminal bronchiolar epithelial cells),Increase,GO:0050673,,Cellular,epithelial cell proliferation
+"Increase, Regenerative cell proliferation (tubular epithelial cells)",Regenerative cell proliferation (tubular epithelial cells),Increase,GO:0050673,,Cellular,epithelial cell proliferation
+"Increase, Regenerative cell proliferation (urothelial cells)",Regenerative cell proliferation (urothelial cells),Increase,GO:0008283,,Cellular,cell proliferation
+"Increase, ROS production",ROS production,Increased,GO:1903409,,Cellular,reactive oxygen species biosynthetic process
+"Increase, Tissue Degeneration, Necrosis & Atrophy","Tissue Degeneration, Necrosis & Atrophy",Increase,GO:0070265,,Tissue,necrotic cell death
+"Increase, Uncoupling of OXPHOS",Reduced ability to generate ATP,Uncoupling of oxidative phosphorylation,GO:0017077,,Molecular,oxidative phosphorylation uncoupler activity
+"Increase, Vitellogenin synthesis in liver",Vitellogenin synthesis in liver,Increase,GO:0010467,,Tissue,gene expression
+"Increased activity, beta-2 adrenergic receptor",beta-2 adrenergic receptor,Increased activity,GO:0004941,,Molecular,beta2-adrenergic receptor activity
+"Increased Airway Hyper-responsiveness,Cough, Dyspnea",Trigeminal and/or vagal nerve excitation,"Airway Hyper-responsiveness,Cough, Dyspnea",GO:0060004,,Tissue,reflex
+Increased CGRP,Increased CGRP,neuronal release of CGRP,GO:0005184,,Cellular,neuropeptide hormone activity
+"Increased, Activation and Recruitment of Hepatic macrophages (Kupffer Cells)",Activation and Recruitment of Hepatic macrophages (Kupffer Cells),Increased,GO:0042116,,Cellular,macrophage activation
+"Increased, adipogenesis",adipogenesis,Increased,GO:0045444,,Cellular,fat cell differentiation
+"Increased, Angiogenesis",Angiogenesis,Increased,GO:0001525,,Cellular,angiogenesis
+"Increased, Binding of chemicals to 2u (serum)",Binding of chemicals to 2u (serum),Increased,GO:0005488,,Molecular,binding
+"Increased, Catabolism of Muscle Protein",Catabolism of Muscle Protein,Increased,GO:0030163,,Organ,protein catabolic process
+"Increased, Cell Proliferation (mesothelium)",Cell Proliferation (mesothelium),Increased,GO:0008283,,Cellular,cell proliferation
+"Increased, Cellular proliferation / hyperplasia of acinar cells",Cellular proliferation / hyperplasia of acinar cells,Increased,GO:0008283,,Cellular,cell proliferation
+"Increased, Chloride conductance",Chloride conductance,Increased,GO:1902476,,Cellular,chloride transmembrane transport
+"Increased, Chromosome misseggregation",Chromosome misseggregation,Increased,GO:0007059,,Cellular,chromosome segregation
+"Increased, De Novo FA synthesis",De Novo FA synthesis,Increased,GO:0006633,,Cellular,fatty acid biosynthetic process
+"Increased, Developmental Defects",Developmental Defects,Increased,GO:0009653,,Individual,anatomical structure morphogenesis
+"Increased, DNA Damage-Repair",DNA Damage-Repair,Increased,GO:0006281,,Cellular,dna repair
+"Increased, ER binding to DNA (classical pathway)",ER binding to DNA (classical pathway),Increased,GO:0030331,,Molecular,estrogen receptor binding
+"Increased, ER binding to T.F. to DNA (non-classical pathway)",ER binding to T.F. to DNA (non-classical pathway),Increased,GO:0030331,,Molecular,estrogen receptor binding
+"Increased, Estrogen receptor (ER) activity",Estrogen receptor (ER) activity,Increased,GO:0030284,,Molecular,estrogen receptor activity
+"Increased, FA Influx",FA Influx,Increased,GO:0015908,,Cellular,fatty acid transport
+"Increased, Hepatic thyroid hormone uptake/transport",Hepatic thyroid hormone uptake/transport,Increased,GO:0006810,,Tissue,transport
+"Increased, HIF-1 alpha transcription",HIF-1 alpha transcription,Increased,GO:0010467,,Cellular,gene expression
+"Increased, HIF-1 heterodimer",HIF-1 heterodimer,Increased,GO:0010467,,Cellular,gene expression
+"Increased, IGF-1 (mouse)",IGF-1 (mouse),Increased,GO:0010467,,Cellular,gene expression
+"Increased, Induction of pyruvate dehydrogenase (PDH)",Induction of pyruvate dehydrogenase (PDH),Increased,GO:0004738,,Molecular,pyruvate dehydrogenase activity
+"Increased, induction of UDPGT's in liver",induction of UDPGT's in liver,Increased,GO:0010467,,Cellular,gene expression
+"Increased, Inhibitory postsynaptic potential",Inhibitory postsynaptic potential,Increased,GO:0060080,,Cellular,inhibitory postsynaptic potential
+"Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",Insufficient repair or mis-repair of pro-mutagenic DNA adducts,Increased,GO:0006281,,Molecular,dna repair
+"Increased, LDL uptake",LDL uptake,Increased,GO:0006898,,Cellular,receptor-mediated endocytosis
+"Increased, locomotion",locomotion,Increased,GO:0040011,,Individual,locomotion
+"Increased, Migration (Endothelial Cells)",Migration (Endothelial Cells),Increased,GO:0043542,,Cellular,endothelial cell migration
+"Increased, Motility",Motility,Increased,GO:0048870,,Cellular,cell motility
+"Increased, muscular waves in foot",muscular waves in foot,Increased,GO:0040011,,Organ,locomotion
+"Increased, Neuronal synaptic inhibition",Neuronal synaptic inhibition,Increased,GO:0050805,,Cellular,negative regulation of synaptic transmission
+"Increased, Non-genomic signaling",Non-genomic signaling,Increased,GO:0023052,,Cellular,signaling
+"Increased, PPAR-alpha activation",PPAR-alpha activation,Increased,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Increased, predation",predation,Increased,GO:0002120,,Population,predatory behavior
+"Increased, prolactin secretion",prolactin secretion,Increased,GO:0070459,,Tissue,prolactin secretion
+"Increased, Proliferation (Endothelial cells)",Proliferation (Endothelial cells),Increased,GO:0001935,,Cellular,endothelial cell proliferation
+"Increased, proliferation of mesenchymal cells",proliferation of mesenchymal cells,Increased,GO:0010463,,Cellular,mesenchymal cell proliferation
+"Increased, Reproductive Success",Reproductive Success,Increased,GO:0022414,,Individual,reproductive process
+"Increased, Second Messenger Production",Second Messenger Production,Increased,GO:0019932,,Cellular,second-messenger-mediated signaling
+"Increased, secrection of FSH from anterior pituitary	",secrection of FSH from anterior pituitary,Increased,GO:0046884,,Cellular,follicle-stimulating hormone secretion
+"Increased, secretion of GnRH from hypothalamus",secretion of GnRH from hypothalamus,Increased,GO:0046879,,Cellular,hormone secretion
+"Increased, secretion of LH from anterior pituitary",secretion of LH from anterior pituitary,Increased,GO:0032275,,Cellular,luteinizing hormone secretion
+"Increased, secretion of local growth factors",secretion of local growth factors,Increased,GO:0046903,,Cellular,secretion
+"Increased, serotonin (5-HT)","Increased, serotonin (5-HT)","Increased, serotonin (5-HT)",GO:0001820,,Cellular,serotonin secretion
+"Increased, T4/T3 catabolism",T4/T3 catabolism,Increased,GO:0042447,,Cellular,hormone catabolic process
+"Increased, Triglyceride formation",Triglyceride formation,Increased,GO:0009058,,Cellular,biosynthetic process
+"Increased, Triglyceride formation",Triglyceride formation,Increased,GO:0019432,,Cellular,triglyceride biosynthetic process
+"Increased, valve movement","Increased, valve movement","Increased, valve movement",GO:0050881,,Tissue,muscoloskeletal movement
+"Induction, CYP1A2/CYP1A5",CYP1A2/CYP1A5,Induction,GO:0010467,,Molecular,gene expression
+"Induction, Doublesex1 gene",Doublesex1 gene,Induction,GO:0010467,,Molecular,gene expression
+"Induction, IKB inhibitory protein",IKB inhibitory protein,Induction,GO:0007252,,Cellular,I-kappaB phosphorylation
+"Induction, Sustained Cell Proliferation",Sustained Cell Proliferation,Induction,GO:0072574,,Cellular,hepatocyte proliferation
+"Induction, Upregulation of glucuronyltransferase activity",Upregulation of glucuronyltransferase activity,Induction,GO:0003824,,Molecular,catalytic activity
+"Induction, Upregulation of glucuronyltransferase activity",Upregulation of glucuronyltransferase activity,Induction,GO:0015020,,Molecular,glucuronosyltransferase activity
+"Infiltration, Inflammatory cells",Inflammatory cells,Infiltration,GO:0006954,,Tissue,inflammatory response
+"Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme",4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme,Inhibition,GO:0003868,,Molecular,4-hydroxyphenylpyruvate dioxygenase activity
+"Inhibition, 5¦Á-reductase activity",5alpha-reductase activity,Inhibition,GO:0003824,,Cellular,catalytic activity
+"Inhibition, Bile Salt Export Pump (ABCB11)",Bile Salt Export Pump (ABCB11),Inhibition,GO:0006810,,Molecular,transport
+"Inhibition, Ca++ ATPase",Ca++ ATPase,Inhibition,GO:0005388,,Molecular,calcium-transporting ATPase activity
+"Inhibition, Cyclooxygenase 1 activity",Cyclooxygenase 1 activity,Inhibition,GO:0004666,,Molecular,prostaglandin-endoperoxide synthase activity
+"Inhibition, Deiodinase 1",Deiodinase 1,Inhibition,GO:0003824,,Cellular,catalytic activity
+"Inhibition, Deiodinase 2",Deiodinase 2,Inhibition,GO:0003824,,Cellular,catalytic activity
+"Inhibition, Deiodinase 3",Deiodinase 3,Inhibition,GO:0003824,,Molecular,catalytic activity
+"Inhibition, Dual oxidase",Dual oxidase,Inhibition,GO:0003824,,Molecular,catalytic activity
+"Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel",Ether-a-go-go (ERG) voltage-gated potassium channel,Inhibition,GO:0019870,,Molecular,potassium channel inhibitor activity
+"Inhibition, FoxA2",FoxA2,Inhibition,GO:0023052,,Molecular,signaling
+"Inhibition, HMG-CoA reductase",HMG-CoA reductase,Inhibition,GO:0042282,,Cellular,hydroxymethylglutaryl-CoA reductase activity
+"Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307",Inducible Nitric Oxide Synthase by Metabolite CGA 265307,Inhibition,GO:0004517,,Cellular,nitric-oxide synthase activity
+"Inhibition, Iodotyrosine deiodinase (IYD)",Iodotyrosine deiodinase (IYD),Inhibition,GO:0003824,,Molecular,catalytic activity
+"Inhibition, Na+/I- symporter (NIS)",Na+/I- symporter (NIS),Inhibition,GO:0008507,,Molecular,sodium:iodide symporter activity
+"Inhibition, NADH-ubiquinone oxidoreductase (complex I)",NADH-ubiquinone oxidoreductase (complex I),Inhibition,GO:0008137,,Cellular,NADH dehydrogenase (ubiquinone) activity
+"Inhibition, NMDARs",NMDARs,Inhibition,GO:0023052,,Molecular,signaling
+"Inhibition, Nuclear factor kappa B (NF-kB)",Nuclear factor kappa B (NF-kB),Inhibition,GO:0007249,,Molecular,I-kappaB kinase/NF-kappaB signaling
+"Inhibition, Pendrin",Pendrin,Inhibition,GO:0023052,,Molecular,signaling
+"Inhibition, Phospholipase A",Phospholipase A,Inhibition,GO:0004620,,Molecular,phospholipase activity
+"Inhibition, PPAR alpha",PPAR alpha,Inhibition,GO:0035357,,Molecular,peroxisome proliferator activated receptor signaling pathway
+"Inhibition, Prolyl hydroxylases",Prolyl hydroxylases,Inhibition,GO:0003824,,Cellular,catalytic activity
+"Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme",Pyruvate dehydrogenase kinase (PDK) enzyme,Inhibition,GO:0004738,,Cellular,pyruvate dehydrogenase activity
+"Inhibition, sodium channel",sodium channel,Inhibition,GO:0019871,,Molecular,sodium channel inhibitor activity
+"Inhibition, sodium channel",sodium channel,Inhibition,GO:0023052,,Molecular,signaling
+"Inhibition, SREBP1c",SREBP1c,Inhibition,GO:0032933,,Molecular,SREBP signaling pathway
+"Inhibition, UROD",UROD,Inhibition,GO:0003824,,Molecular,catalytic activity
+"Inhibition, VegfR2",VegfR2,Inhibition,GO:0043184,,Molecular,vascular endothelial growth factor receptor 2 binding
+"Inhibition, Wnt pathway",Wnt pathway,Inhibition,GO:0023052,,Cellular,signaling
+"Insufficiency, Vascular",Vascular,Insufficiency,GO:0008015,,Organ,blood circulation
+"irregularities, ovarian cycle",ovarian cycle,irregularities,GO:0042698,,Individual,ovulation cycle
+Leukocyte recruitment/activation,Immune system response,Leukocyte recruitment,GO:0006954,,Tissue,inflammatory response
+"Metabolism of AFB1, Production of Reactive Electrophiles",Production of Reactive Electrophiles,Metabolism of AFB1,GO:0008152,,Molecular,metabolic process
+"modulation, sodium channel",sodium channel,modulation,GO:0019871,,Molecular,sodium channel inhibitor activity
+"modulation, Unknown",Unknown,modulation,GO:0023052,,Molecular,signaling
+"N/A, Androgen receptor, Antagonism","Androgen receptor, Antagonism",N/A,GO:0004882,,Molecular,androgen receptor activity
+"N/A, Cell injury/death",Cell injury/death,N/A,GO:0008219,,Cellular,cell death
+"N/A, Inadequate DNA repair",Insufficient or incorrect DNA repair,N/A,GO:0006281,,Cellular,dna repair
+"N/A, Interferences with SH-/selen-proteins",Interferences with SH-/selen-proteins,N/A,GO:0019904,,Cellular,protein domain specific binding
+"N/A, Neuronal dysfunction",Neuronal dysfunction,N/A,GO:0036475,,Cellular,neuron death in response to oxidative stress
+"N/A, Parent compound is converted to the reactive metabolite and forms free radicals leadin",Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III),N/A,GO:0006788,,Molecular,heme oxidation
+"N/A, Reproductive failure",Reproductive failure,N/A,GO:0044703,,Individual,multi-organism reproductive process
+narcosis,narcosis,,GO:0007009,,Cellular,plasma membrane organization
+narcosis,Necrosis,,GO:0070265,,Tissue,necrotic cell death
+"Neuronal network function, Decreased",Neuronal network function,Decreased,GO:0099536,,Organ,synaptic signaling
+"Non-neuronal production of IL-8/CXCL1, Epithelial irritation",Epithelial irritation,Non-neuronal production of TNF,GO:0001816,,Individual,cytokine production
+"Non-neuronal production of IL-8/CXCL1, Epithelial irritation",Epithelial irritation,Non-neuronal production of IL-8/CXCL1,GO:0001816,,Tissue,cytokine production
+"Non-neuronal production of IL-8/CXCL1, Epithelial irritation",Epithelial irritation,Non-neuronal production of IL-8/CXCL1,GO:2000338,,Tissue,regulation of chemokine (C-X-C motif) ligand 1 production
+"Occurrence, A paroxysmal depolarizing shift	",A paroxysmal depolarizing shift,Occurrence,GO:0051899,,Tissue,membrane depolarization
+"Occurrence, Ballooning degeneration (hepatocyte)",Ballooning degeneration (hepatocyte),Occurrence,GO:0048102,,Cellular,autophagic cell death
+"Occurrence, Cytoplasmic vacuolization (Bile duct cell)",Cytoplasmic vacuolization (Bile duct cell),Occurrence,GO:0048102,,Cellular,autophagic cell death
+"Occurrence, Cytoplasmic vacuolization (hepatocyte)",Cytoplasmic vacuolization (hepatocyte),Occurrence,GO:0048102,,Cellular,autophagic cell death
+"Occurrence, Cytoplasmic vacuolization (kupffer cell)",Cytoplasmic vacuolization (kupffer cell),Occurrence,GO:0048102,,Cellular,autophagic cell death
+"Occurrence, Cytoplasmic vacuolization (Renal tubule)",Cytoplasmic vacuolization (Renal tubule),Occurrence,GO:0048102,,Organ,autophagic cell death
+"Occurrence, Transdifferentiation of ciliated epithelial cells",Transdifferentiation of ciliated epithelial cells,Increase,GO:0060290,,Cellular,transdifferentiation 
+"Opening of calcium channel, Calcium influx",Calcium influx,Opening of calcium channel,GO:0006816,,Cellular,calcium ion transport
+"Overactivation, muscle contraction",muscle contraction,Overactivation,GO:0006936,,Tissue,muscle contraction
+"Overactivation, Neuronotransmitter release",Neuronotransmitter release,Overactivation,GO:0007269,,Molecular,neurotransmitter secretion
+"Overactivation, NMDARs",NMDARs,Overactivation,GO:0023052,,Molecular,signaling
+"Overwhelmed, Mitochondrial DNA repair mechanisms",Mitochondrial DNA repair mechanisms,Overwhelmed,GO:0006281,,Cellular,DNA repair
+"Oxidation, Glutathione",Glutathione,Oxidation,GO:0016209,,Molecular,antioxidant activity
+"persistent, cytotoxicity (pleura or peritoneum)",cytotoxicity (pleura or peritoneum),persistent,GO:0008219,,Cellular,cell death
+"prepubertal increase, Estrogen receptor (ER) activity",Estrogen receptor (ER) activity,prepubertal increase,GO:0030284,,Molecular,estrogen receptor activity
+"Production of nerve growth factor , Epithelial irritation",Epithelial irritation,Production of nerve growth factor,GO:0001816,,Tissue,cytokine production
+Production of ¦Á-smooth muscle actin,Production of ?¡À-smooth muscle actin,,GO:0010467,,Cellular,gene expression
+"Production, Critical Metabolites (CGA 330050 and CGA 265307)",Critical Metabolites (CGA 330050 and CGA 265307),Production,GO:0008152,,Cellular,metabolic process
+"Production, Reactive oxygen species",Reactive oxygen species,Production,GO:1903409,,Tissue,reactive oxygen species biosynthetic process
+"Proliferation, Cell proliferation in the absence of cytotoxicity",Cell proliferation in the absence of cytotoxicity,Proliferation,GO:0008283,,Cellular,cell proliferation
+"Proliferation/Clonal Expansion, aberrant basal cells",aberrant basal cells,Proliferation/Clonal Expansion,GO:0008283,,Cellular,cell proliferation
+"Proliferation/Clonal Expansion, smooth muscle",smooth muscle,Proliferation/Clonal Expansion,GO:0008283,,Cellular,cell proliferation
+"prolonged, Depolarization of neuronal membrane",Depolarization of neuronal membrane,prolonged,GO:0051899,,Cellular,membrane depolarization
+"prolonged, estrus",estrus,prolonged,GO:0060209,,Individual,estrus 
+"Promotion, SIX-1 postive basal-type progenitor cells",SIX-1 postive basal-type progenitor cells,Promotion,GO:0010467,,Cellular,gene expression
+"Reduce expression, BDNF",Release of BDNF,Reduced,GO:0010467,,Molecular,gene expression
+"Reduce expression, BDNF",Release of BDNF,Reduced,GO:0046903,,Molecular,secretion
+"reduced dimerization, ARNT/HIF1-alpha",ARNT/HIF1-alpha,reduced dimerization,GO:0046983,,Molecular,protein dimerization activity
+"reduced production, VEGF",VEGF,reduced production,GO:0010467,,Cellular,gene expression
+"Reduced, Anterior swim bladder inflation",Anterior swim bladder inflation,Reduced,GO:0048798,,Organ,swim bladder inflation
+"Reduced, BDNF",Release of BDNF,Reduced,GO:0010467,,Molecular,gene expression
+"Reduced, BDNF",Release of BDNF,Reduced,GO:0046903,,Molecular,secretion
+"Reduced, Brood care",Brood care,Reduced,GO:0019098,,Population,reproductive behavior
+"Reduced, Hearing",Hearing,Reduced,GO:0007605,,Organ,sensory perception of sound 
+"Reduced, Maturation inducing steroid receptor signalling, oocyte","Maturation inducing steroid receptor signalling, oocyte",Reduced,GO:0003707,,Tissue,steroid hormone receptor activity
+"Reduced, Maturation inducing steroid receptor signalling, oocyte","Maturation inducing steroid receptor signalling, oocyte",Reduced,GO:0023052,,Tissue,signaling
+"Reduced, Meiotic prophase I/metaphase I transition, oocyte","Meiotic prophase I/metaphase I transition, oocyte",Reduced,GO:0008315,,Cellular,meiotic G2/MI transition
+"Reduced, Pheromone release",Pheromone release,Reduced,GO:0071834,,Individual,mating pheromone secretion
+"Reduced, Posterior swim bladder inflation",Posterior swim bladder inflation,Reduced,GO:0048798,,Organ,swim bladder inflation
+"Reduced, Presynaptic release of glutamate",Presynaptic release of glutamate,Reduced,GO:0061535,,Molecular,"glutamate secretion, neurotransmission"
+"Reduced, Prostaglandin F2alpha synthesis, ovary","Prostaglandin F2alpha synthesis, ovary",Reduced,GO:0001516,,Organ,prostaglandin biosynthetic process
+"Reduced, Reproductive Success",Reproductive Success,Reduced,GO:0000003,,Individual,reproductive process
+"Reduced, Reproductive Success",Reproductive Success,Reduced,GO:0022414,,Individual,reproductive process
+"reduction in ovarian granulosa cells, Aromatase (Cyp19a1)",Aromatase (Cyp19a1),reduction in ovarian granulosa cells,GO:0070330,,Cellular,aromatase activity
+"Reduction, 17beta-estradiol synthesis by ovarian granulosa cells",17beta-estradiol synthesis by ovarian granulosa cells,Reduction,GO:0006703,,Cellular,estrogen biosynthetic process
+"Reduction, 17beta-estradiol synthesis by ovarian granulosa cells",Reduced steroidogenic production of estradiol in granulosa cells,reduction in ovarian granulosa cells synthesis of estradiol,GO:0006703,,Cellular,estrogen biosynthetic process
+"Reduction, Angiogenesis",Angiogenesis,Reduction,GO:0001525,,Cellular,angiogenesis
+"Reduction, Ca and HCO3 transport to shell gland",Ca and HCO3 transport to shell gland,Reduction,GO:0006816,,Tissue,calcium ion transport
+"Reduction, Ca and HCO3 transport to shell gland",Ca and HCO3 transport to shell gland,Reduction,GO:0015701,,Tissue,bicarbonate transport
+"Reduction, Cholesterol transport in mitochondria",Cholesterol transport in mitochondria,Reduction,GO:0006839,,Cellular,mitochondrial transport
+"Reduction, Ionotropic GABA receptor chloride channel conductance",Ionotropic GABA receptor chloride channel conductance,Reduction,GO:0022851,,Cellular,GABA-gated chloride ion channel activity
+"Reduction, Neuronal synaptic inhibition",Neuronal synaptic inhibition,Reduction,GO:0007268,,Cellular,synaptic transmission
+"Reduction, Testosterone synthesis by ovarian theca cells",Testosterone synthesis by ovarian theca cells,Reduction,GO:0061370,,Cellular,testosterone biosynthetic process
+"Reduction, Testosterone synthesis in Leydig cells",Testosterone synthesis in Leydig cells,Reduction,GO:0061370,,Cellular,testosterone biosynthetic process
+"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development",Vitellogenin accumulation into oocytes and oocyte growth/development,Reduction,GO:0001555,,Cellular,oocyte growth
+"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development",Vitellogenin accumulation into oocytes and oocyte growth/development,Reduction,GO:0006898,,Cellular,receptor-mediated endocytosis
+"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development",Vitellogenin accumulation into oocytes and oocyte growth/development,Reduction,GO:0048599,,Cellular,oocyte development
+"Reduction, Vitellogenin synthesis in liver",Vitellogenin synthesis in liver,Reduction,GO:0010467,,Tissue,gene expression
+"relaxation, smooth muscle",smooth muscle,relaxation,GO:0044557 ,,Tissue,relaxation of smooth muscle
+"Release, Cytokine",Cytokine,Release,GO:0050663,,Cellular,cytokine secretion
+Repressed expression of steroidogenic enzymes,Repressed expression of steroidogenic enzymes,N/A,GO:0042446,,Cellular,hormone biosynthetic process
+Reproductive failure,Reproductive failure,,GO:0000003,,Individual,reproduction
+Respiratory irritability,Respiratory irritability,Chronic Cough,GO:0006954,,Individual,inflammatory response
+ROS formation,ROS formation,,GO:0009058,,Molecular,biosynthetic process
+"Sensitization, Immune system",Immune system,Sensitization,GO:0006955,,Individual,immune response
+"S-Glutathionylation, eNOS",eNOS,S-Glutathionylation,GO:0010731,,Molecular,protein glutathionylation 
+"SP (Substance P) release, Local increase of SP",Local increase of SP,SP (Substance P) release,GO:0005184,,Cellular,neuropeptide hormone activity
+"stabilization, PPAR alpha co-repressor",PPAR alpha co-repressor,stabilization,GO:0003714,,Molecular,transcription corepressor activity
+"Suppression, Constitutive androstane receptor, NR1l3","Constitutive androstane receptor, NR1l3",Suppression,GO:0023052,,Molecular,signaling
+"Suppression, Estrogen receptor (ER) activity",Estrogen receptor (ER) activity,Suppression,GO:0030284,,Molecular,estrogen receptor activity
+"Suppression, IL-2 and IL-4 production",IL-2 and IL-4 production,Suppression,GO:0032623,,Molecular,interleukin-2 production
+"Suppression, Immune system",Immune system,Suppression,GO:0044414,,Individual,suppression of host defenses
+"Suppression, Inflammatory cytokines",Inflammatory cytokines,Suppression,GO:0002534,,Individual,cytokine production involved in inflammatory response
+"Suppression, Suppression of T-cell dependent antibody production",Suppression of cytokine production in the presence of T-cell activation,Suppression,GO:0001775,,Cellular,cell activation
+"Suppression, Suppression of T-cell dependent antibody production",Suppression of cytokine production in the presence of T-cell activation,Suppression,GO:0002534,,Cellular,cytokine production involved in inflammatory response
+"Suppression, VLDL secretion",VLDL secretion,Suppression,GO:0046903,,Cellular,secretion
+"Synaptogenesis, Decreased",Synaptogenesis,Decreased,GO:0007416,,Cellular,synapse assembly
+"Synthesis, De Novo FA",De Novo FA,Synthesis,GO:0006633,,Cellular,fatty acid biosynthetic process
+"TH synthesis, Decreased",Thyroid hormone synthesis,Decreased,GO:0006590,not included in KE relationships,Molecular,thyroid hormone generation
+"Thyroidal Iodide, Decreased",Thyroidal iodide uptake,Decreased,GO:0015705,,Cellular,iodide transport
+"Thyroperoxidase, Inhibition	",Thyroperoxidase,Inhibition,GO:0004447,,Molecular,iodide peroxidase activity
+"TRPA1 activation, TRPA1 Receptor",TRPA1 Receptor,TRPA1 activation,GO:0023052,,Molecular,signaling
+"Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)",Acetyl-CoA carboxylase-1 (ACC-1),Up Regulation,GO:0003989,,Molecular,acetyl-CoA carboxylase activity
+"Up Regulation, CD36",CD36,Up Regulation,GO:0010467,,Molecular,gene expression
+"Up Regulation, CYP1A1",CYP1A1,Up Regulation,GO:0010467,,Molecular,gene expression
+"Up Regulation, FAS",FAS,Up Regulation,GO:0010467,,Molecular,gene expression
+"Up Regulation, LDLR (low density lipoprotein receptor)",LDLR (low density lipoprotein receptor),Up Regulation,GO:0010467,,Molecular,gene expression
+"Up Regulation, SCD-1",SCD-1,Up Regulation,GO:0010467,,Molecular,gene expression
+"Up Regulation, SREBF2",SREBF2,Up Regulation,GO:0010467,,Cellular,gene expression
+"Up Regulation, TGFbeta1 expression",TGFbeta1 expression,Up Regulation,GO:0032905,,Cellular,transforming growth factor beta1 production
+"Up Regulation, Unsaturated fatty acid",Unsaturated fatty acid,Up Regulation,GO:0006636,,Cellular,unsaturated fatty acid biosynthetic process
+"Upregulated, Spindle assembly checkpoint protein Mad2-oocyte",Spindle assembly checkpoint protein Mad2-oocyte,Upregulated,GO:1902426,,Molecular,deactivation of mitotic spindle assembly checkpoint
+,Activation by other estradiol agonists,Decreased testosterone by the fetal Leydig cells,GO:0030284,not included in KE relationships,Cellular,estrogen receptor activity
+,Activation by other glucocorticoid receptor agonists,Decreased testosterone by the fetal Leydig cells,GO:0004883,not included in KE relationships,Cellular,glucocorticoid receptor activity
+,Alterations in the Leydig Cell Cytoskeleton,Decreased steroidogenesis,GO:0007010,not included in KE relationships,Tissue,cytoskeleton organization
+,"Altered, Ca2+-calmodulin activated signal transduction","Altered, Ca2+-calmodulin activated signal transduction",GO:0005488,,Cellular,binding
+,Antgonism of NE receptor,Inhibition,GO:0023052,not included in KE relationships,Molecular,signaling
+,ApoB100,Increased,GO:0010467,not included in KE relationships,Tissue,gene expression
+,Aromatase,Inhibition,GO:0070330,,Molecular,aromatase activity
+,Binding of NE to NE receptors on GnRH neurons,Decreased,GO:0051380,not included in KE relationships,Cellular,norepinephrine binding
+,Bronchopulmonary vagul nerve excitation,Nerve excitation ,GO:0043179,not included in KE relationships,Cellular,rhythmic excitation
+,Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol,Inhibition of Aromatase Enzyme,GO:0023052,not included in KE relationships,Molecular,signaling
+,Clearance of thyroxine from tissues,Increased,GO:0008152,not included in KE relationships,Tissue,metabolic process
+,Cortical granule release/distribution upon fertilization,Decreased,GO:0046903,not included in KE relationships,Cellular,secretion
+,De Novo FA synthesis,Decreased,GO:0006633,not included in KE relationships,Cellular,fatty acid biosynthetic process
+,Decrease or delay in LH surge required for ovulation,"Ovulation of oocytes Reduced, Delayed, or Blocked",GO:0042698,not included in KE relationships,Individual,ovulation cycle
+,Decreased Activity of Steroidogenic Enzymes in Adult Leydig cells,Decreased steroidogenesis,GO:0050810,not included in KE relationships,Cellular,regulation of steroid biosynthetic process
+,Decreased COUP-TFII stem Leydig cells,Decreased number and function of adult Leydig cells,GO:0035624,not included in KE relationships,Cellular,receptor transactivation
+,Decreased De Novo Biosynthesis of Choleseterol,Decreased Cholesterol,GO:0006695,not included in KE relationships,Molecular,cholesterol biosynthetic process
+,Decreased GnRH stimulation of Anterior Pituitary Gonadotrophs,Decreased LH release from Anterior Pituitary,GO:0032275,not included in KE relationships,Cellular,luteinizing hormone secretion
+,Decreased hypothalamic estrogen reduces kisspeptinergic neuron response,Decreased Kisspeptin release from neurons in AVPV,GO:0007269,not included in KE relationships,Cellular,neurotransmitter secretion
+,Decreased Kisspeptin stimulation of GnRH neurons,Decreased GnRH Release,GO:0046879,not included in KE relationships,Cellular,hormone secretion
+,decreased number of adult Leydig Cells,Increased apoptosis,GO:0006915,not included in KE relationships,Cellular,apoptotic process
+,Decreased testosterone by adult Leydig cells,Glucocorticoid Receptor mediated alterations in steriodogenic enzymes,GO:0004883,not included in KE relationships,Cellular,glucocorticoid receptor activity
+,Decreased testosterone by adult Leydig cells,Apoptosis of adult Leydig cells,GO:0006915,not included in KE relationships,Cellular,apoptotic process
+,Decreased testosterone by adult Leydig cells,Direct effects of Corticosterone on steroidogenesis,GO:0050810,not included in KE relationships,Cellular,regulation of steroid biosynthetic process
+,Decreased Testosterone Production by Adult Leydig Cells,Decreased Cholesterol,GO:0061370,not included in KE relationships,Cellular,testosterone biosynthetic process
+,Decreased Transport of Cholesterol to the Inner Mitochondrial Membrane,Decreased Cholesterol,GO:0032367,not included in KE relationships,Molecular,intracellular cholesterol transport
+,Decreased Uptake of Lipoproteins,Decreased Cholesterol,GO:0042953,not included in KE relationships,Molecular,lipoprotein transport
+,Ecdysone receptor,Activation,GO:0035076,not included in KE relationships,Molecular,ecdysone receptor-mediated signaling pathway
+,Failure of secondary hemostasis,Under carboxylated clotting factors will not assemble on cell surfaces to form clot,GO:0007599,not included in KE relationships,Tissue,hemostasis
+,Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone,Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139,GO:0003824,not included in KE relationships,Molecular,catalytic activity
+,Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone,Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139,GO:0023052,not included in KE relationships,Molecular,signaling
+,Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone,Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139,GO:0042373,not included in KE relationships,Molecular,vitamin K metabolic process
+,Fibroblasts,Activation,GO:0001775,Not included in KE relationships,Cellular,fibroblast activation
+,Ftz-f1 gene,Suppression,GO:0010467,not included in KE relationships,Molecular,gene expression
+,gamete maturation,Increased,GO:0048469,not included in KE relationships,Organ,cell maturation
+,GnRH cfos activity,Decreased,GO:0023052,not included in KE relationships,Molecular,signaling
+,Hippocampal function,Decreased,GO:0007268,not included in KE relationships,Tissue,chemical synaptic transmission
+,HNF4alpha,Suppression,GO:0023052,not included in KE relationships,Molecular,signaling
+,Hypermethylation in the fetal testis,Decreased testosterone by the fetal Leydig cells,GO:0044026,not included in KE relationships,Molecular,DNA hypermethylation
+,Increased Apoptosis of Adult Leydig Cells,Decreased steroidogenesis,GO:0006915,not included in KE relationships,Tissue,apoptotic process
+,Increased COUP-TFII in fetal Leydig cells,Decreased testosterone by the fetal Leydig cells,GO:0035624,not included in KE relationships,Cellular,receptor transactivation
+,Increased neurokinin A (NKA) by neuronal cells,,GO:0005184,not included in KE relationships,Cellular,neuropeptide hormone activity
+,Inhibition of Dopamine-beta-hydroxylase,Inhibition,GO:0004500,not included in KE relationships,Molecular,dopamine beta-monooxygenase activity
+,In-utero DNA topoisomerase II ??poisons-,,GO:0003918,not included in KE relationships,Molecular,DNA topoisomerase II activity
+,Irritation of nasal mucosa inducing sneeze reflex,,GO:0060004,not included in KE relationships,Tissue,reflex
+,LH Surge,Decreased,GO:0033684,not included in KE relationships,Cellular,regulation of luteinizing hormone secretion
+,Macrophages,Activation,GO:0042116,not included in KE relationships,Cellular,macrophage activation
+,MTTP,Activation,GO:0023052,not included in KE relationships,Cellular,signaling
+,Nuclear receptor E75b gene,Induction,GO:0010467,not included in KE relationships,Molecular,gene expression
+,Oxidation of biomolecules,"Lipid membranes, proteins, DNA",GO:0055114,not included in KE relationships,Molecular,oxidation-reduction process
+,p-amino hippuric acid channel,Inhibition,GO:0023052,not included in KE relationships,Molecular,signaling
+,"Pregnane-X receptor, NR1l2",Activation,GO:0023052,not included in KE relationships,Molecular,signaling
+,Proteomic alterations in the adult Leydig cell,Decreased steroidogenesis,GO:0006694,not included in KE relationships,Molecular,steroid biosynthetic process
+,Release of circulating crustacean cardioactive peptide,Reduction,GO:0002790,not included in KE relationships,Tissue,peptide secretion
+,reuptake of 5-HT (5-hydroxytryptamine transporter; sodium-dependent serotonin transporter,Inhibition,GO:0051610,not included in KE relationships,Molecular,serotonin uptake
+,reuptake of 5-HT (5-hydroxytryptamine transporter; sodium-dependent serotonin transporter,Inhibition,GO:0098810,not included in KE relationships,Molecular,neurotransmitter reuptake
+,reuptake of 5-HT (5-hydroxytryptamine transporter; sodium-dependent serotonin transporter,Inhibition,GO:0098810,not included in KE relationships,Molecular,neurotransmitter reuptake
+,Secretion of ecdysis triggering hormone (ETH),Decreased,GO:0008255,not included in KE relationships,Cellular,ecdysis-triggering hormone activity
+,Sperm penetration (polyspermy),Abnormal,GO:0035037,not included in KE relationships,Cellular,sperm entry
+,Synthesis of NE,Decreased,GO:0042421,not included in KE relationships,Cellular,norepinephrine biosynthetic process
+,systemic inflammation leading to hepatic steatosis,,GO:0006954,not included in KE relationships,Organ,inflammatory response
+,Transthyretin in serum,Binding,GO:0005488,not included in KE relationships,Molecular,binding
+,Uptake of thyroxine into tissue,Increased,GO:0006810,not included in KE relationships,Cellular,transport

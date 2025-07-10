@@ -1,0 +1,26 @@
+,PODt,PODa,Chemical Class,chemicals
+16#-1,-0.268663892,-1,Neurotoxicants,PPC
+17#-1,-0.930433968,-1,Neurotoxicants,TPP
+21#-1,0.594210809,1,Neurotoxicants,DIR
+25#-1,0.111425752,0.301029996,Neurotoxicants,CPS
+27#-1,-0.557173386,1,Non-neurotoxicants,CLP
+3#-1,-0.146207447,1,Neurotoxicants,DEHP
+34#-1,-0.687183129,-1.657577319,Neurotoxicants,BaP
+38#-1,-0.180957524,0.505149978,Non-neurotoxicants,PFOA
+4#-1,0.573339412,0,Neurotoxicants,DZN
+40#-1,-0.395720893,-0.13667714,Neurotoxicants,BbF
+41#-1,-0.526238034,-1.494850022,Neurotoxicants,TDCPP
+47#-1,1.14154797,1,Neurotoxicants,TCS
+60#-1,-0.795555843,0.397940009,Non-neurotoxicants,MFA
+7#-1,-1.463671503,0,Neurotoxicants,DFC
+70#-1,0.049250272,1,Neurotoxicants,CPD
+BPA-1,-1.057433756,-2,Neurotoxicants,BPA
+BPAF-1,-2.867939303,-3,Neurotoxicants,BPAF
+BPE-1,-0.814753631,-2,Neurotoxicants,BPE
+BPS-1,-0.678020016,-2,Neurotoxicants,BPS
+P8-1,0.885802785,2.301029996,Neurotoxicants,CBP
+TCDD-1,-4.067205301,-3,Neurotoxicants,TCDD
+SnO2,1.860449392,0.69897,Nano particles,SnO2
+ZnO,0.904693737,0.301029996,Nano particles,ZnO
+MnO2,1.25666136,-1,Nano particles,MnO2
+TiO2,2.404862778,2,Nano particles,TiO2

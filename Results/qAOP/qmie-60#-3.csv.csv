@@ -1,0 +1,6 @@
+"nodes","name","%ppp","matched","mie","ao","pod"
+"6475","ACTIVATION NRF2","20.29","yes","yes","n","2.33e-01"
+"6413","INHIBITION NA+/I- SYMPORTER NIS","1.74","yes","yes","n","2.08e-01"
+"5692","ACTIVATION AHR","0.03","yes","yes","n","4.63e-01"
+"7387","INHIBITION IODOTYROSINE DEIODINASE IYD","0.01","yes","yes","n","4.10e-01"
+"7395","INHIBITION DUAL OXIDASE","0.01","yes","yes","n","4.10e-01"

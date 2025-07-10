@@ -1,0 +1,8 @@
+"nodes","name","%ppp","matched","mie","ao","pod"
+"7387","INHIBITION IODOTYROSINE DEIODINASE IYD","3.48","yes","yes","n","3.50e+01"
+"7432","ACTIVATION ESTROGEN RECEPTOR","2.84","yes","yes","n","1.03e+01"
+"7395","INHIBITION DUAL OXIDASE","2.38","yes","yes","n","3.50e+01"
+"5717","AGONISM ANDROGEN RECEPTOR","0.04","yes","yes","n","2.72e+01"
+"6176","ACTIVATION PXR/SXR","0.02","yes","yes","n","4.07e+01"
+"7115","INHIBITION DEIODINASE 2","0","yes","yes","n","5.91e+01"
+"7139","INHIBITION DEIODINASE 1","0","yes","yes","n","5.91e+01"

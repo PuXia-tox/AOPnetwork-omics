@@ -1,0 +1,8 @@
+"nodes","name","%ppp","matched","mie","ao","pod"
+"5692","ACTIVATION AHR","8.93","yes","yes","n","1.08e-04"
+"7387","INHIBITION IODOTYROSINE DEIODINASE IYD","0.92","yes","yes","n","1.09e-04"
+"7395","INHIBITION DUAL OXIDASE","0.64","yes","yes","n","1.09e-04"
+"5717","AGONISM ANDROGEN RECEPTOR","0.01","yes","yes","n","2.87e-05"
+"6151","REDUCTION IN OVARIAN GRANULOSA CELLS AROMATASE CYP19A1","0.01","yes","yes","n","3.07e-05"
+"5732","N/A ANDROGEN RECEPTOR ANTAGONISM","0","yes","yes","n","1.24e-05"
+"5742","INHIBITION AROMATASE","0","yes","yes","n","3.07e-05"

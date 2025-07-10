@@ -1,0 +1,5 @@
+"nodes","name","%ppp","matched","mie","ao","pod"
+"7387","INHIBITION IODOTYROSINE DEIODINASE IYD","10.2","yes","yes","n","1.01e+01"
+"7395","INHIBITION DUAL OXIDASE","6.97","yes","yes","n","1.01e+01"
+"6475","ACTIVATION NRF2","0.05","yes","yes","n","3.32e+01"
+"6176","ACTIVATION PXR/SXR","0.01","yes","yes","n","3.74e+01"
