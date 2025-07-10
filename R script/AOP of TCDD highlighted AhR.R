@@ -45,10 +45,10 @@ cmKE <- list()
 cmKE <- sapply(cmKE_file, readRDS, simplify = FALSE) # Use simplify = FALSE to ensure a list is returned
 
 
-edges_number <- list()
 
 # Adjust the range for batch processing if needed
-for (mmm in 1:36) {
+  
+  for(mmm in 37:39){
   
   sample_name <- sample_files[mmm]
   sample_path <- file.path(perturbed_dir, sample_name)
@@ -123,8 +123,9 @@ for (mmm in 1:36) {
   ke.neru_ao <- union(ke.neru_ao, c(755, 306, 756, 817, 839)) 
   ke_node           <- na.omit(rownames(aop_graph_matrix)[ke.l])
   ke_neuro_ao_node  <- rownames(aop_graph_matrix)[ke.neru_ao]
+  
+  AhR.l <- grep('AHR/ARNT',nodes[,2])
 
-   
   ## ---- Filter Valid Paths ----
   cmke_match <- grep(paste0('s',unlist(strsplit(sample_name,'.csv'))),names(cmKE))
   qAOP_path <- sapply(cmKE[[cmke_match]],function(x)x$path)
@@ -146,14 +147,81 @@ for (mmm in 1:36) {
   ))
   
   highlight_edge_ids <- unique(highlight_edge_ids)
-  edges_number[mmm] <- length(highlight_edge_ids)
 
+  
+  if (length(ke.l) <= 3) {
+    stop("Too few key events matched; not applicable for this analysis.")
+  }
+  
+  ## ---- Node Annotations ----
+  Wiki_MIE  <- read_excel("Wiki-MIE.xlsx") %>% as.matrix()
+  non_MIE   <- read_excel("non-MIE.xlsx") %>% as.matrix()
+  Wiki_AO   <- read_excel("Wiki-AO.xlsx") %>% as.matrix()
+  
+  mie_clean <- toupper(gsub("[(),]", "", unique(Wiki_MIE[,2][!Wiki_MIE[,2] %in% non_MIE[,4]])))
+  ao_clean  <- toupper(gsub("[(),]", "", unique(unlist(Wiki_AO[,4:7][!is.na(Wiki_AO[,4:7])]))))
+  
+  mie.l     <- which(nodes[,1] %in% mie_clean)
+  aop.l     <- which(nodes[,1] %in% ao_clean)
+  
+  ## ---- Layout & Plotting ----
+  layout_coords <- readRDS("/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/AOP_layout_coords.rds")
+  
+  # Node styles
+  vertex_sizes <- rep(3, gsize(aop_graph))
+  vertex_sizes[ke.l] <- 5
+  vertex_sizes[AhR.l] <- 10
+  
+  vSubCol <- rep("white", gsize(aop_graph))
+  vSubCol[ke.l]       <- "lightblue"
+  vSubCol[mie.l]      <- "green"
+  vSubCol[aop.l]      <- "red"
+  vSubCol[ke.neru_ao] <- "yellow"
+  vSubCol[AhR.l] <- 'orange'
+  
+  # Edge styles
+  e_col   <- rep("gray", ecount(aop_graph))
+  e_width <- rep(0.5, ecount(aop_graph))
+  e_col[highlight_edge_ids]   <- "purple"
+  e_width[highlight_edge_ids] <- 3
+  
+  # 📄 Save plots to PDF
+  base_name_raw <- strsplit(sample_name, '.csv')[[1]]
+  sanitized_base_name <- gsub("[^A-Za-z0-9_.-]", "_", base_name_raw)
+  sanitized_base_name <- gsub("^[. ]+|[. ]+$", "", sanitized_base_name)
+  if (nchar(sanitized_base_name) == 0) {
+    sanitized_base_name <- "unnamed_sample" # Fallback name
+  }
+  
+  # Construct the full PDF filename using the sanitized base name
+  pdf_filename <- paste0('AOP_Network_AhR_', sample_name, '.pdf')
+  pdf_filepath <- file.path('/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results', pdf_filename)
+  
+  pdf(pdf_filepath, width = 10, height = 10)
+  par(mar = c(0, 0, 0, 0))
+  
+  plot(aop_graph,
+       vertex.color        = vSubCol,
+       vertex.frame.color  = "black",
+       edge.color          = e_col,
+       edge.width          = e_width,
+       edge.arrow.size     = 0.2,
+       vertex.size         = vertex_sizes,
+       vertex.shape        = "circle",
+       vertex.label        = NA,
+       layout              = layout_coords,
+       vertex.label.cex    = 0.4,
+       vertex.label.family = "Helvetica")
+  
+  legend("bottomleft",
+         legend = c("KE", 'AhR Activation',"Neuro_AO", "MIE", "AO", "Perturbed Path"),
+         col    = c("lightblue",'orange', "yellow", "green", "red", "purple"),
+         pch    = 19, pt.cex = 1.5)
+  
+  dev.off()
+  
   gc()
 }
 
-coverage_AOP <- edges_number
-write.csv(unlist(coverage_AOP),'/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/coverage_AOP.csv')
-names(coverage_AOP) <- sample_files
-sapply(coverage_AOP,max)
 
 

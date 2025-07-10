@@ -17,7 +17,7 @@ source("annotation compass.R")
 
 dir_results <- ('/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/')
 
-############################  Figure 1A  ############################
+############################  Figure 3  ############################
 
 cheminfo <- read_excel('chemical info.xlsx') %>% as.data.frame()
 y <- read.csv('PODt_reference chemicals.csv')
@@ -85,10 +85,10 @@ p <- ggarrange(myplot[[1]],myplot[[2]],myplot[[3]],myplot[[4]],
                font.label = list(size = 26),
                ncol = 2, nrow = 2)
 
-ggsave(paste0(dir_results,"Figure 1A.pdf"),p,width = 12, height = 12)
+ggsave(paste0(dir_results,"Figure 3.pdf"),p,width = 12, height = 12)
 
 
-############################  Figure 1B  ############################ 
+############################  Figure 4  ############################ 
 # load dataSet
 data.nano <- read.csv('nano_PoD.csv')[,-1]
 data.nano[,3] <- cheminfo[match(data.nano[,4],cheminfo[,4]),5]
@@ -136,128 +136,10 @@ p <- ggplot(data=data.nano,aes(PODt, PODa, label=chemicals, color=.data[[Neuro]]
         axis.ticks.length.x = unit(.25, "cm"),
         plot.title = element_text(size=22,hjust = 0.5,face = "bold"))
 
-ggsave(paste0(dir_results,"Figure 1B-new.pdf"),p,width = 15, height = 12)
+ggsave(paste0(dir_results,"Figure 4.pdf"),p,width = 15, height = 12)
 
 
 ############################  Figure 2  ############################ 
-
-files <- list.files('/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/qAOP') %>%
-  .[grep('qaop',.)] 
-
-sample_names <- strsplit(files,'.csv') %>%
-  sapply(.,function(x)x[1]) %>%
-  strsplit(.,'qaop-') %>%
-  sapply(.,function(x)x[2])
-
-sample_names <- paste(cheminfo[match(sapply(strsplit(sample_names,'-'),function(x)x[1]), cheminfo[,1]),4],
-                      sapply(strsplit(sample_names,'-'),function(x)x[2]),sep='-')
-
-DEG_list<-c()
-for(i in 1:length(files)){
-  DEG_list[[i]] <- read.csv(paste0('/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/qAOP/',files[i]))
-  dp <- duplicated(DEG_list[[i]][,2])
-  if(sum(dp)){
-    DEG_list[[i]] <- DEG_list[[i]][-which(dp==T),]
-  }
-  DEG_list[[i]] <- DEG_list[[i]][order(DEG_list[[i]][,2]),]
-}
-names(DEG_list)<-sample_names
-
-all.ke <- sort(unique(unlist(sapply(DEG_list,function(x) x[,2]))))
-CMap <- matrix(nrow=length(all.ke),ncol=length(sample_names))
-rownames(CMap) <- all.ke
-colnames(CMap) <- sample_names
-
-for(i in 1:length(DEG_list)){
-  l <- which(rownames(CMap)%in%DEG_list[[i]][,2])
-  CMap[l,i] <- DEG_list[[i]][,7]
-  print(length(l))
-}
-
-CMap[is.na(CMap)]<-10^6
-if(length(which(rowSums(CMap==10^6)==ncol(CMap)))){
-  CMap<-CMap[-which(rowSums(CMap==10^6)==ncol(CMap)),]
-}
-
-pdf(file=paste0(dir_results,'Figure Neuro_qAOP.pdf'),
-    width = 10, height = 10)
-pheatmap(log10(CMap[c(grep('NEURO',rownames(CMap)),
-                      grep('LEARN',rownames(CMap))),grep('-1',colnames(CMap))]),
-         show_rownames=T,fontsize_row=5,cluster_cols=T,
-         #scale='column',
-         color = colorRampPalette(c("red", "white"))(100))
-dev.off()
-
-
-###
-hdata <- log10(CMap)[,grep('-1',colnames(CMap))]*(-1)
-hdata <- hdata[-which(rowSums(hdata==(-6))==ncol(hdata)),]
-#hdata <- hdata[,-(19:22)]
-ann_colors <- list('Neurotoxic' = c('Yes'='#EBA133',
-                                    'No'='blue',
-                                    'Unknown'='white'),
-                   'Chemical Class'=c('Biocide'='#4DAF4A',
-                                      'PAH'='black',
-                                      'Drug'='white',
-                                      'FR'='#E41A1C',
-                                      'Industrial'='yellow',
-                                      'NP'='#377EB8'))
-
-ha_name <- cheminfo[match(sapply(strsplit(colnames(hdata),'-'),function(x)x[1]), cheminfo[,4]),c(5,6)]
-ha_name <- data.frame(ha_name)
-colnames(ha_name) <- c('Neurotoxic','Chemical Class')
-
-ha_col_bot <- HeatmapAnnotation(df=ha_name,
-                                col = ann_colors[1:2],
-                                annotation_legend_param = list(
-                                  title_gp = gpar(fontsize = 14,fontface='bold'),
-                                  labels_gp = gpar(fontsize = 14)
-                                ),
-                                border=T)
-ha_col_top <- HeatmapAnnotation(PODt_boxplot = anno_boxplot(apply(hdata,2,function(x) x[x!=(-6)]),
-                                                            height = unit(2,'cm'),
-                                                            box_width = 0.3,
-                                                            outline = F))
-
-color_fun<-colorRamp2(c(-6,0,3,max(hdata)), c("white", "pink", "red", "purple"))
-at <- c(grep('NEURO',rownames(hdata)),
-        grep('LEARN',rownames(hdata)))
-label <- rownames(hdata)[at] %>%
-  gsub('N/A ', '', .) %>%
-  tolower %>%
-  capitalize
-
-colnames(hdata) <- gsub('-1','',colnames(hdata))
-
-pdf(file=paste0(dir_results,'Figure 2-new.pdf'),
-    width = 10, height = 10)
-draw(Heatmap(hdata,
-             bottom_annotation = ha_col_bot,
-             top_annotation = ha_col_top,
-             col = color_fun,
-             border_gp = gpar(col = "black"),
-             clustering_distance_columns = 'euclidean',
-             heatmap_legend_param = list(
-               title = as.expression(bquote('-log10 POD'[t])),
-               legend_height = unit(2, "cm"),
-               title_gp = gpar(fontsize = 14,fontface='bold'),
-               labels_gp = gpar(fontsize = 14),
-               border = "black"
-             ),
-             show_row_names = F,
-             show_row_dend = F,
-             height = unit(10, "cm"),
-             row_names_gp = gpar(fontsize = 2)) +
-       rowAnnotation(label = anno_mark(at = at, labels = label)),
-     heatmap_legend_side = "left",
-     annotation_legend_side= 'bottom'
-)
-
-dev.off()
-
-
-
-############################  Figure 3  ############################ 
 path.db <- readRDS('RZT_AOP_KE_Pathway.rds')
 hdata <- read.csv('pathDB.csv',row.names = 'X')
 hdata <- hdata[,grep('.1',colnames(hdata))]*(-1)
@@ -306,7 +188,7 @@ label <- hdata.annotation[at] %>%
 
 colnames(hdata) <- cheminfo[match(sapply(strsplit(colnames(hdata),'[.]'),function(x)x[1]), gsub('#','',cheminfo[,1])),c(4)]
 
-pdf(file=paste0(dir_results,'Figure 3-new.pdf'),
+pdf(file=paste0(dir_results,'Figure 2.pdf'),
     width = 10, height = 10)
 draw(Heatmap(hdata,
              bottom_annotation = ha_col_bot,
@@ -350,7 +232,7 @@ y <- y[y!='Unknown']
 MyResult.splsda <- splsda(xc, y, keepX = c(20,20))
 #plotIndiv(MyResult.splsda)
 #plotVar(MyResult.plsda)
-pdf(file=paste0(dir_results,'Figure 4.pdf'),
+pdf(file=paste0(dir_results,'Figure S5.pdf'),
     width = 10, height = 10)
 plotIndiv(MyResult.splsda, ind.names = T, legend= T,
           ellipse = T, star = T, title = 'PCA',
@@ -359,8 +241,8 @@ dev.off()
 
 #auc.plsda <- auroc(MyResult.splsda)
 
-############################  Figure 5  ############################
-### Figure 5A - qAOP
+############################  PLS-DA modelling analysis  ############################
+### all KEs-based modeling
 x <- t(hdata)*(-1)
 colnames(x) <- path.db[[2]][match(colnames(x),path.db[[2]][,2]),1]
 
@@ -408,7 +290,7 @@ legend('bottomright',c(slope,p,r,rmse))
 dev.off()
 
 
-### Figure 5B
+### Neuro mKEs-based modeling
 # neuro-only pathways were too few to conduct pls analysis
 x <- t(hdata)*(-1)
 colnames(x) <- path.db[[2]][match(colnames(x),path.db[[2]][,2]),1]

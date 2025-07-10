@@ -48,16 +48,16 @@ for (mmm in 29:32) {
   saveRDS(cmke, file = file.path('/rds/projects/x/xiap-xia-transcriptomics/AOP network/Results/cmKE/',
                                  paste0("AOP_layout_coords",strsplit(sample_name, '.csv')[[1]],'.rds')))
   #AopNetworkPlot(data, cmke, sample_name)
-  #all_aop <- qAOPstatistic(cmke)
+  all_aop <- qAOPstatistic(cmke)
   
-  # Filter qMIE and qAO results
-  #qmie <- all_aop[all_aop[, 4] == "yes" & all_aop[, 5] == "yes", ]
-  #qao  <- all_aop[all_aop[, 4] == "yes" & all_aop[, 6] == "yes", ]
+  #Filter qMIE and qAO results
+  qmie <- all_aop[all_aop[, 4] == "yes" & all_aop[, 5] == "yes", ]
+  qao  <- all_aop[all_aop[, 4] == "yes" & all_aop[, 6] == "yes", ]
   
   # Save output
-  #write.csv(all_aop, file.path(qaop_output_dir, paste0("qaop-", sample_name)), row.names = FALSE)
-  #write.csv(qmie,   file.path(qaop_output_dir, paste0("qmie-", sample_name)), row.names = FALSE)
-  #write.csv(qao,    file.path(qaop_output_dir, paste0("qao-", sample_name)), row.names = FALSE)
+  write.csv(all_aop, file.path(qaop_output_dir, paste0("qaop-", sample_name)), row.names = FALSE)
+  write.csv(qmie,   file.path(qaop_output_dir, paste0("qmie-", sample_name)), row.names = FALSE)
+  write.csv(qao,    file.path(qaop_output_dir, paste0("qao-", sample_name)), row.names = FALSE)
   
   # Clean up memory
   gc()
